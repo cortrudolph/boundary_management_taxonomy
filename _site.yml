@@ -1,0 +1,9 @@
+name: "Boundary Management Taxonomy"
+navbar:
+  title: "Boundary Management Taxonomy"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Taxonomy"
+      href: taxonomy.html
+output_dir: "docs"

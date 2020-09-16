@@ -1,0 +1,54 @@
+---
+title: "Boundary Management Taxonomy"
+output:
+  html_document:
+    toc: false
+    #code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+## Instructions
+
+To explore the taxonomy:
+
+1. Select a scale domain.
+
+2. Select a scale level
+
+3. Select a scale construct.
+
+4. Select a scale category.
+
+5. Select a scale aspect.
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(readxl)
+library(tidyverse)
+library(collapsibleTree)
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+Domains <- read_excel("data/Measurement and Conceptual Taxonomy Table.xlsx")
+```
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+collapsibleTree(
+  Domains,
+  hierarchy = c("Scale Domain", 
+                "Scale Level", 
+                "Scale Construct",
+                "Scale Category",
+                "Scale Aspect",
+                "Scale Title and Citation"
+                ),
+  width = 1200,
+  zoomable = TRUE,
+  tooltip = FALSE,
+  collapsed = TRUE
+)
+```
+

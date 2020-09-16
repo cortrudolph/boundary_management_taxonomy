@@ -1,0 +1,36 @@
+---
+title: "Boundary Management Taxonomy"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **Boundary Management Taxonomy**
+
+## Instructions
+
+Welcome to the homepage for the boundary management taxonomy. To explore the taxonomy click on "Taxonomy" above. 
+
+
+
+</div>
+<div class="col-sm-6">
+
+### [SEAL Lab](https://www.cortrudolph.com)
+<a href = "https://www.cortrudolph.com">
+<img src="images/logo1.png" width="200" height="225">
+
+</a>
+</div>
