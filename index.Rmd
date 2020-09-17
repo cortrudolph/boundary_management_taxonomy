@@ -28,6 +28,12 @@ Welcome to the homepage for the boundary management taxonomy. To explore the tax
 </div>
 <div class="col-sm-6">
 
+## Developed By:
+
+### [Wellness through Employment and Life Laboratory](https://wellab.weebly.com)
+<a href = "https://wellab.weebly.com">
+<img src="images/logo2.jpg" width="265" height="225">
+
 ### [SEAL Lab](https://www.cortrudolph.com)
 <a href = "https://www.cortrudolph.com">
 <img src="images/logo1.png" width="200" height="225">
