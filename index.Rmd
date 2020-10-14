@@ -1,5 +1,5 @@
 ---
-title: "Boundary Management Taxonomy"
+title: "Boundary Management Conceptual & Measurement Taxonomies"
 output: html_document
 ---
 
@@ -17,11 +17,11 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Boundary Management Taxonomy**
+# **Boundary Management Conceptual & Measurement Taxonomies**
 
 ## Instructions
 
-Welcome to the homepage for the boundary management taxonomy. To explore the taxonomy click on "Taxonomy" above. 
+Welcome to the homepage for the boundary management conceptual and measurement taxonomies. To explore the either taxonomy click on the respective "Taxonomy" link, above. 
 
 
 
