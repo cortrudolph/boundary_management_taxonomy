@@ -1,4 +1,4 @@
-# boundaryd_mangagement_taxonomy
+# boundary_mangagement_taxonomy
 
-Wesbite files for "Boundary Management Taxonomy."
+Wesbsite files for "Boundary Management Taxonomy."
 
